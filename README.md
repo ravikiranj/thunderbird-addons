@@ -1,0 +1,4 @@
+thunderbird-addons
+==================
+
+Thunderbird addons
