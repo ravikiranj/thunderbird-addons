@@ -1,0 +1,4 @@
+content tamsgheader content/
+skin tamsgheader classic/1.0 skin/
+style chrome://global/content/customizeToolbar.xul chrome://tamsgheader/skin/overlay.css
+overlay chrome://messenger/content/messenger.xul chrome://tamsgheader/content/overlay.xul
